@@ -1,1 +1,0 @@
-# cloudera-hadoop-terraform-aws
